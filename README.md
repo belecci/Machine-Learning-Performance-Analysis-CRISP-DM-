@@ -1,4 +1,3 @@
-# fundamentals-of-ai-project
 # 🤖 AI-Driven Network Intrusion Detection & Traffic Classification
 
 ## 📋 Project Overview
